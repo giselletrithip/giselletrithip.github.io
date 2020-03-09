@@ -385,12 +385,20 @@ var HeadTag = function HeadTag() {
     },
     __self: this
   }), __jsx("link", {
+    rel: "stylesheet",
+    href: "https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }), __jsx("link", {
     rel: "apple-touch-icon",
     sizes: "57x57",
     href: "/apple-icon-57x57.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 14
     },
     __self: this
   }), __jsx("link", {
@@ -399,7 +407,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-60x60.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 15
     },
     __self: this
   }), __jsx("link", {
@@ -408,7 +416,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-72x72.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 16
     },
     __self: this
   }), __jsx("link", {
@@ -417,7 +425,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-76x76.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 17
     },
     __self: this
   }), __jsx("link", {
@@ -426,7 +434,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-114x114.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 18
     },
     __self: this
   }), __jsx("link", {
@@ -435,7 +443,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-120x120.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 19
     },
     __self: this
   }), __jsx("link", {
@@ -444,7 +452,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-144x144.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 20
     },
     __self: this
   }), __jsx("link", {
@@ -453,7 +461,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-152x152.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 21
     },
     __self: this
   }), __jsx("link", {
@@ -462,7 +470,7 @@ var HeadTag = function HeadTag() {
     href: "/apple-icon-180x180.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }), __jsx("link", {
@@ -472,7 +480,7 @@ var HeadTag = function HeadTag() {
     href: "/android-icon-192x192.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 23
     },
     __self: this
   }), __jsx("link", {
@@ -482,7 +490,7 @@ var HeadTag = function HeadTag() {
     href: "/favicon-32x32.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 24
     },
     __self: this
   }), __jsx("link", {
@@ -492,7 +500,7 @@ var HeadTag = function HeadTag() {
     href: "/favicon-96x96.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 25
     },
     __self: this
   }), __jsx("link", {
@@ -502,7 +510,7 @@ var HeadTag = function HeadTag() {
     href: "/favicon-16x16.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 26
     },
     __self: this
   }), __jsx("link", {
@@ -510,7 +518,7 @@ var HeadTag = function HeadTag() {
     href: "/manifest.json",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     },
     __self: this
   }), __jsx("meta", {
@@ -518,7 +526,7 @@ var HeadTag = function HeadTag() {
     content: "#ffffff",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     },
     __self: this
   }), __jsx("meta", {
@@ -526,7 +534,7 @@ var HeadTag = function HeadTag() {
     content: "/ms-icon-144x144.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 29
     },
     __self: this
   }), __jsx("meta", {
@@ -534,7 +542,7 @@ var HeadTag = function HeadTag() {
     content: "#ffffff",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 30
     },
     __self: this
   }));
@@ -11747,7 +11755,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=D%3A%5CportableGiselle%5Cdevreact%5Cgiselletrithip.github.io-website%5Cpages%5Cindex.js ***!
   \********************************************************************************************************************************************************/
@@ -11770,5 +11778,5 @@ module.exports = dll_82519ec661270f7f484f;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
